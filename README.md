@@ -1,4 +1,4 @@
-# bomb157
+# bomblab
 A Rutgers University CS211 (Computer Architecture) programming assignment analyzing and reverse-engineering a "binary bomb" using its assembly code to obtain keys to pass all 9 phases
 
 ### bomb.c
